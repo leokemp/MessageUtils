@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <drawable name="lightslategrey">#99ccff</drawable>
+
+    <color name="radio_button_selected_color">#ff33b5e5</color>
+    <color name="radio_button_disable_color">#eeeeee</color>
+    <color name="radio_button_able_color">#00000000</color>
+    <color name="radio_button_unselected_color">@android:color/transparent</color>
+    <!-- ff33b5e5 -->
+
+</resources>
