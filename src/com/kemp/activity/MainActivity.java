@@ -1,4 +1,4 @@
-package com.kemp.activity;
+﻿package com.kemp.activity;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -41,7 +41,7 @@ public class MainActivity extends FragmentActivity implements
 		OnPageChangeListener {
 
 	/**
-	 * 顶部图片切换
+	 * 顶部图片切换 测试
 	 */
 	private ViewPager viewPager;
 
